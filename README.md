@@ -1,4 +1,6 @@
 # Game-Dev-Alura
+(https://img.shields.io/github/license/josevictoremiliano/Game-Dev-Alura?style=flat-square)
+(https://img.shields.io/github/issues/josevictoremiliano/Game-Dev-Alura?style=flat-square)
 Introdução a jogos com JS, oferecido de forma imersiva pela Alura Cursos.
 
  - Durante a imersão foi possivel a criação do jogo  "As Aventuras de Hypista"
