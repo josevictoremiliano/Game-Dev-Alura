@@ -1,6 +1,6 @@
-<div style="text-align=center">
-#  Game-Dev-Alura</div>
->>>>>[![GitHub license](https://img.shields.io/github/license/josevictoremiliano/Game-Dev-Alura?style=flat-square)](https://github.com/josevictoremiliano/Game-Dev-Alura)
+
+#  Game-Dev-Alura
+>>>>> [![GitHub license](https://img.shields.io/github/license/josevictoremiliano/Game-Dev-Alura?style=flat-square)](https://github.com/josevictoremiliano/Game-Dev-Alura)
 [![GitHub issues](https://img.shields.io/github/issues/josevictoremiliano/Game-Dev-Alura?style=flat-square)](https://github.com/josevictoremiliano/Game-Dev-Alura/issues)
 
 
